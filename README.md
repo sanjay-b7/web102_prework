@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/xdpneye' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/codepathweb102prework-sanjayb-xdpneye' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
